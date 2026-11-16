@@ -4,8 +4,7 @@
 
 ## 目录
 
-- `default/`：默认记忆集
-  - [组织](default/org.md)：组织如何构建——选人与留人
+- [组织](../../docs/gallery/org/index.md)：组织如何构建——选人与留人（已迁至 `docs/gallery/org/`）
 
 ## 许可
 
