@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [组织](../../docs/gallery/org/index.md)：组织如何构建——选人与留人（已迁至 `docs/gallery/org/`）
+- [组织](../../docs/handbook/org/index.md)：组织如何构建——选人与留人（已迁至 `docs/handbook/org/`）
 - `qtgame-tycoon/`：
   - [project](qtgame-tycoon/project.md)
   - [connect](qtgame-tycoon/connect.md)
